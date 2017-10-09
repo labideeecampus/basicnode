@@ -7,6 +7,6 @@
   },
   "main":"./bin/www",
   "dependencies": {
-    "express": "~4.13.1"
+    "express": "*"
   }
 }
