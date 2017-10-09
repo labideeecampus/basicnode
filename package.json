@@ -1,0 +1,12 @@
+{
+  "name": "LRS_nodejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "main":"./bin/www",
+  "dependencies": {
+    "express": "~4.13.1"
+  }
+}
